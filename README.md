@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 06-05-2024
-## Register Number: 212223220121
-## Name: VARSHA  A
+# Date: 25-05-2024
+## Register Number: 212223040171
+## Name: ROHAN J
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -34,12 +34,14 @@ Conserving resource
 promoting a healthier and safer world.
 By reducing, reusing, and recycling electronic devices, we can make a positive impact and pave the way for a sustainable future.
 
-![328489361-fccadf20-163f-4a6e-b35c-3ac14c1ad3ae](https://github.com/04Varsha/SIHPS/assets/149035374/b16b1a96-8348-419c-aaeb-a3fd603a5805)
+![Screenshot 2024-05-25 200723](https://github.com/Rohanjeyachandiran/SIHPS/assets/161102491/d621cbd0-6f84-40f5-90b6-41d0ffc1501b)
+
 
 
 ## Proposed Solution / Architecture Diagram
 
-![328493096-4c98b0fb-a412-48fa-92ed-03b45b8e2eab](https://github.com/04Varsha/SIHPS/assets/149035374/3da2d194-39ac-4141-a5f2-5d923fb8f2fb)
+![Screenshot 2024-05-25 200750](https://github.com/Rohanjeyachandiran/SIHPS/assets/161102491/df84b198-61e7-4a8d-8aa4-b43b2b438134)
+
 
 
 ## Use Cases
